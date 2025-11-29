@@ -50,3 +50,5 @@ git checkout -b " branch name"
 
 switch the branch
 git checkout " branch name "
+create a new branch 
+git checkout -b " branch name"
